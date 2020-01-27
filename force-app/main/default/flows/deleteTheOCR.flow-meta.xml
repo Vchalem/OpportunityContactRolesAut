@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <interviewLabel>deleteTheOCR {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>deleteTheOCR</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>AutoLaunchedFlow</processType>
+    <recordDeletes>
+        <name>DeletetheOCR</name>
+        <label>DeletetheOCR</label>
+        <locationX>137</locationX>
+        <locationY>48</locationY>
+        <inputReference>ocr</inputReference>
+    </recordDeletes>
+    <startElementReference>DeletetheOCR</startElementReference>
+    <status>Active</status>
+    <variables>
+        <name>ocr</name>
+        <dataType>SObject</dataType>
+        <isCollection>true</isCollection>
+        <isInput>true</isInput>
+        <isOutput>false</isOutput>
+        <objectType>OpportunityContactRole</objectType>
+    </variables>
+</Flow>

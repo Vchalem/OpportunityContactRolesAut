@@ -32,14 +32,14 @@
     [
         "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 576,
             "modifiedTime": 1580140332687,
             "changeTime": 1580140332687,
-            "contentHash": "3b81861699f642377af60bd09a63d3538abdc418"
+            "contentHash": "3b81861699f642377af60bd09a63d3538abdc418",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -420,49 +420,88 @@
             "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flows/OCR_Created.flow-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 7381,
-            "modifiedTime": 1580140332686,
-            "changeTime": 1580140332686,
-            "contentHash": "d36a7e0b763248971f91d263ad82b0e2f3f98820"
+            "size": 7390,
+            "modifiedTime": 1580147161022,
+            "changeTime": 1580147161022,
+            "contentHash": "45257536716935a4d1a2762c7fdbbfa6844744fe"
         }
     ],
     [
         "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/workflows/OpportunityContactRole.workflow-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/workflows/OpportunityContactRole.workflow-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 99,
             "modifiedTime": 1580140332688,
             "changeTime": 1580140332688,
-            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28"
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flows",
         {
-            "state": "u",
             "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flows",
             "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1580147070764,
+            "changeTime": 1580147070764,
+            "contentHash": "6c548756c65894cfa9a6c66291ff4771d7a8069a",
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1580140332686,
-            "changeTime": 1580140332686,
-            "contentHash": "276be63f833ee23f9948e54ad0ea2fcf2f0fc1ad"
+            "state": "u"
         }
     ],
     [
         "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/workflows",
         {
-            "state": "u",
             "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/workflows",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1580140332688,
             "changeTime": 1580140332688,
-            "contentHash": "cbb9189b23aca17d8396434170a4ceff9aaaf42e"
+            "contentHash": "cbb9189b23aca17d8396434170a4ceff9aaaf42e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flows/test2t.flow-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flows/test2t.flow-meta.xml",
+            "isDirectory": false,
+            "size": 1035,
+            "modifiedTime": 1580146957177,
+            "changeTime": 1580146957177,
+            "contentHash": "7e26edc89ed1b4cbe069ba712c2a5ea4edd8c663",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flows/test22.flow-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flows/test22.flow-meta.xml",
+            "isDirectory": false,
+            "size": 991,
+            "modifiedTime": 1580147070767,
+            "changeTime": 1580147070767,
+            "contentHash": "ef1e9ac2b7344005639c1a54c3912c5177d17133",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flows/deleteTheOCR.flow-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flows/deleteTheOCR.flow-meta.xml",
+            "isDirectory": false,
+            "size": 1206,
+            "modifiedTime": 1580147070764,
+            "changeTime": 1580147070764,
+            "contentHash": "6c1a3603bdb42a005561c4ec245fbace02dcff55",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]

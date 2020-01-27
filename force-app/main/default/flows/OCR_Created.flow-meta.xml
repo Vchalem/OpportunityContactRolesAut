@@ -10,14 +10,14 @@
         <processMetadataValues>
             <name>flowSelection</name>
             <value>
-                <stringValue>DeleteOCR</stringValue>
+                <stringValue>deleteTheOCR</stringValue>
             </value>
         </processMetadataValues>
         <name>myRule_1_A1</name>
-        <label>deleteOCR</label>
+        <label>deleteTheOCR</label>
         <locationX>100</locationX>
         <locationY>200</locationY>
-        <actionName>DeleteOCR</actionName>
+        <actionName>deleteTheOCR</actionName>
         <actionType>flow</actionType>
         <inputParameters>
             <processMetadataValues>
@@ -105,7 +105,7 @@
 
 (NOT(ISBLANK({!myVariable_current.Contact.Age__c})) &amp;&amp;  {!myVariable_current.Contact.Age__c} &lt;= 19)</expression>
     </formulas>
-    <interviewLabel>OCR_Created-1_InterviewLabel</interviewLabel>
+    <interviewLabel>OCR_Created-3_InterviewLabel</interviewLabel>
     <label>OCR Created</label>
     <processMetadataValues>
         <name>ObjectType</name>
