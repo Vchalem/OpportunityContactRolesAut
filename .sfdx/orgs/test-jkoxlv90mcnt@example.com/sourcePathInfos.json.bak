@@ -1,0 +1,442 @@
+[
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1580135540831,
+            "changeTime": 1580135820735,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1580135540831,
+            "changeTime": 1580135540831,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default",
+            "isDirectory": true,
+            "size": 512,
+            "modifiedTime": 1580137977544,
+            "changeTime": 1580137977544,
+            "contentHash": "d43683f2f60b93b5528ff59a2570ac923a7e34c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1580135540831,
+            "changeTime": 1580135540831,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1580135540831,
+            "changeTime": 1580135540831,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1580137831705,
+            "changeTime": 1580137831705,
+            "contentHash": "998941f38a501b9b9c249ebef0eccb82b63a17f3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1580135540832,
+            "changeTime": 1580135540832,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1580135540832,
+            "changeTime": 1580135540832,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1580135540832,
+            "changeTime": 1580135540832,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1580135550477,
+            "changeTime": 1580135550477,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1580137224169,
+            "changeTime": 1580137224169,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1580135540832,
+            "changeTime": 1580135540832,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1580135540832,
+            "changeTime": 1580135540832,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1580135540832,
+            "changeTime": 1580135540832,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1580137224179,
+            "changeTime": 1580137224179,
+            "contentHash": "5a5fe7bedb1ed83ca23c7a9b88a3dfcc3c52397a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1580135906583,
+            "changeTime": 1580135906583,
+            "contentHash": "807b7aaa92451ec641bfc0e0a5d2bf0e1e9005a1",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/objects/Contact/fields/Age__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/objects/Contact/fields/Age__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 673,
+            "modifiedTime": 1580137224171,
+            "changeTime": 1580137224171,
+            "contentHash": "f83f59e1d9f89b9e991db9db86e15ef7078c4205",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/classes/CheckDelete.cls-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/classes/CheckDelete.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1580137224174,
+            "changeTime": 1580137224174,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/classes/CheckDelete.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/classes/CheckDelete.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1570,
+            "modifiedTime": 1580139435612,
+            "changeTime": 1580139435612,
+            "contentHash": "4248909e4cfc36b9161ec8764d8a14674b086b6c"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/triggers/OpptyContactRTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/triggers/OpptyContactRTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1580137224178,
+            "changeTime": 1580137224178,
+            "contentHash": "c0622b1998d3338fd57fdc834ddefc80a2e6526b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/triggers/OpptyContactRTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/triggers/OpptyContactRTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 110,
+            "modifiedTime": 1580139435615,
+            "changeTime": 1580139435615,
+            "contentHash": "b941aa09c4aaa2a511817e5f2aa93f2a0a7231e3"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19929,
+            "modifiedTime": 1580137831734,
+            "changeTime": 1580137831734,
+            "contentHash": "64299bb3310edf40f9fc947cb1c50704a47e54c2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5051,
+            "modifiedTime": 1580137224199,
+            "changeTime": 1580137224199,
+            "contentHash": "6b57f60fba09e1fc0b31d3b09f761a8d4953899e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4713,
+            "modifiedTime": 1580137224202,
+            "changeTime": 1580137224202,
+            "contentHash": "b1cced893423348a45e763f99e3b0ac850cc57a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4713,
+            "modifiedTime": 1580137224205,
+            "changeTime": 1580137224205,
+            "contentHash": "b1cced893423348a45e763f99e3b0ac850cc57a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1580137224171,
+            "changeTime": 1580137224171,
+            "contentHash": "9f6ed96aae0a15d607b4d9b701a536ea2b4cc39d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1580137224170,
+            "changeTime": 1580137224170,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1580137224205,
+            "changeTime": 1580137224205,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/classes/CheckDeleteTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/classes/CheckDeleteTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1580137831703,
+            "changeTime": 1580137831703,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/classes/CheckDeleteTest.cls",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/classes/CheckDeleteTest.cls",
+            "isDirectory": false,
+            "size": 1078,
+            "modifiedTime": 1580137831705,
+            "changeTime": 1580137831705,
+            "contentHash": "b39caab33117e90f9ce1b6a8407cc9c1a95ddf8e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/standardValueSets/ContactRole.standardValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/standardValueSets/ContactRole.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1705,
+            "modifiedTime": 1580137977545,
+            "changeTime": 1580137977545,
+            "contentHash": "32b1aa80204bc021cfd66c2a5713829c88e94ba6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/standardValueSets",
+        {
+            "sourcePath": "/Users/vchalem/OpportunityContactRolesAut/force-app/main/default/standardValueSets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1580137977545,
+            "changeTime": 1580137977545,
+            "contentHash": "3f517a86898aa7f415f133b93efb4710f6edfa44",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
